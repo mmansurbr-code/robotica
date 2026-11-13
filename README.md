@@ -1,6 +1,6 @@
 # Robótica: estudo para agenda de visitas na China
 
-Viagem prevista para **fim de março / começo de abril de 2027** para visitar fabricantes chineses de robótica e automação.
+Viagem de **4 a 19 de abril de 2027** para visitar fabricantes chineses de robótica e automação, com a Canton Fair no final.
 
 | Empresa | Foco | Sede | Situação |
 |---|---|---|---|
@@ -34,32 +34,25 @@ Cada ficha tem o catálogo com fotos, especificações e funcionalidades de cada
 |:-:|:-:|:-:|:-:|
 | <img src="https://oss-cn-beijing.galbot.com/online/portal/website/posters/g1-hero.webp" width="180"><br>**G1**<br>Sobre rodas, varejo e farmácia | <img src="https://oss-cn-beijing.galbot.com/online/portal/website/s1/s1-about-product-render.png" width="180"><br>**S1**<br>Industrial, carga de 50 kg (CATL) | <img src="https://oss-cn-beijing.galbot.com/online/portal/website/posters/et1-spec-robot-v3.webp" width="180"><br>**ET1**<br>Bípede para entretenimento | <img src="https://news.cgtn.com/news/2026-03-13/China-s-first-pharmacy-robot-goes-into-service-in-Beijing-1LtZ7juLcZ2/img/3816e9cb30b04fbf95e773c9d328ef41/3816e9cb30b04fbf95e773c9d328ef41-1920.png" width="180"><br>**Farmácia inteligente**<br>Solução com o G1 |
 
-## Roteiro sugerido
+## 📅 Cronograma: 4 a 19 de abril de 2027
 
-As três sedes ficam em cidades diferentes, com voos domésticos de 2 a 3 horas entre elas.
+**[Ver o cronograma completo, dia a dia](cronograma.md)**. Ele junta as visitas de robótica e de [baterias](https://github.com/mmansurbr-code/baterias) e termina na Canton Fair.
 
-| Dia | Cidade | Atividade |
+| Datas | Cidade | Visitas |
 |---|---|---|
-| 1 | Pequim | Chegada |
-| 2 | Pequim | Visita à **Galbot** (Haidian, parque Zhongguancun) e, se possível, a uma farmácia com o G1 em operação |
-| 3 | Pequim → Xangai | Voo |
-| 4 | Xangai | Visita à **Gausium** (sede e showroom) |
-| 5 | Xangai | Feira CCE Shanghai, se as datas coincidirem (ver abaixo) |
-| 6 | Xangai → Shenzhen | Voo |
-| 7 | Shenzhen | Visita à **Dobot** (sede em Nanshan) |
-| 8 | Shenzhen | Reserva: integradores e fornecedores locais, ou visita à fábrica |
-
-**Janela recomendada:** de 22/03 a 02/04/2027.
-
-### Datas para observar
-
-- **Qingming (feriado na China):** 5 de abril de 2027, com folga em torno dessa data. Evite agendar visitas entre 3 e 5 de abril.
-- **CCE Shanghai (feira de limpeza):** a edição de 2026 foi de 31/03 a 03/04, e a Gausium lançou produtos lá. Se a edição de 2027 cair na mesma época, vale encaixar a visita à Gausium junto com a feira. As datas de 2027 ainda precisam ser confirmadas.
-- **Visto:** confirmar as regras vigentes de entrada para brasileiros (isenção ou visto de negócios) e se é preciso carta-convite das empresas.
+| 04–06/04 | Brasil → Pequim | ✈️ Ida. A chegada é depois do feriado de Qingming. |
+| 07/04 | Pequim | 🤖 **Galbot** |
+| 09/04 | Xangai | 🧹 **Gausium** |
+| 12/04 | Shenzhen (Nanshan) | 🤖 **Dobot** e 🔋 **KIJO**, no mesmo parque |
+| 13/04 | Shenzhen (Longhua) e Dongguan | 🔋 **GAPSC** e **Lyrasom** |
+| 14/04 | Reserva → Guangzhou | Dia livre para retornos ou visita a fábrica |
+| 15–18/04 | Guangzhou | 🏛️ **Canton Fair, fase 1** (eletrônicos, automação, novas energias) |
+| 18–19/04 | Guangzhou → Brasil | ✈️ Volta |
 
 ## Próximos passos
 
-- [ ] Gausium: confirmar com o contato comercial a visita à sede e as datas da CCE 2027
+- [ ] Gausium: confirmar com o contato comercial a visita à sede em 09/04. A CCE 2027 (30/03 a 02/04) fica antes da viagem.
+- [ ] Canton Fair: pré-cadastro de comprador e confirmação das datas da fase 1 (15 a 19/04)
 - [ ] Dobot: pedir visita à sede e demonstração (MG400, CR/CRA, Atom) e perguntar sobre distribuição no Brasil
 - [ ] Galbot: retomar o contato do Web Summit e propor data
 - [ ] Fechar as datas, depois voos e hotéis
